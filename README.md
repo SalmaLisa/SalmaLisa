@@ -1,5 +1,4 @@
-
-https://media-exp1.licdn.com/dms/image/D5616AQEcxppKq_N7Og/profile-displaybackgroundimage-shrink_350_1400/0/1670126626731?e=1675900800&v=beta&t=7NbJOpNG2SEXzVykdLgAos2qOq-OrJKd3981s3B9ZaQ
+https://www.canva.com/design/DAFTw_Qdtt8/w-mSif4RnPwgLPqNpctzkQ/edit?utm_content=DAFTw_Qdtt8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 <h1 align="center">Hello, I'm Salma Akter</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
