@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salma Akter</h1>
+<h1 align="center">Hello, I'm Salma Akter</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Budget Cars](https://github.com/SalmaLisa/budget-car-client)
