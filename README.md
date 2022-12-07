@@ -19,7 +19,7 @@ Skills: REACT / JavaScript / Node JS /  Express JS / MonogoDB / Redux / HTML / C
 
 ## Technologies that I know
 <br>
-<p align="center">
+
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
@@ -28,7 +28,9 @@ Skills: REACT / JavaScript / Node JS /  Express JS / MonogoDB / Redux / HTML / C
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-</p><br/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
+<img src="https://github.com/SalmaLisa/SalmaLisa/blob/main/icons/firebase.png"/>
+
 
 ## :chart_with_upwards_trend: Current Stats
 
