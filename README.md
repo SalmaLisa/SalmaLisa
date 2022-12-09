@@ -1,4 +1,5 @@
-![A passionate Web Developer from Bangladesh](https://media-exp1.licdn.com/dms/image/D5616AQEcxppKq_N7Og/profile-displaybackgroundimage-shrink_350_1400/0/1670126626731?e=1675900800&v=beta&t=7NbJOpNG2SEXzVykdLgAos2qOq-OrJKd3981s3B9ZaQ)
+![A passionate Web Developer from Bangladesh](https://media-exp1.licdn.com/dms/image/D5616AQHSI75JOY-6Wg/profile-displaybackgroundimage-shrink_350_1400/0/1670567385134?e=1675900800&v=beta&t=uqigwzdY7cKQa5KQvNY10b2DS2afp5AG4pAOx1n1BZI)
+
 ### Hello, I am Salma Akter
 #### A passionate Web Developer from Bangladesh
 I'm very passionate and dedicated to my work. I am committed to develop you desired website. Your satisfaction is my priority. Over the couple of months, I created 15+ of websites. I am very sincere and responsible about my work and deadline. I am committed to serve you quality work and constant service until your satisfaction. I have knowledge on  REACT, JavaScript, Node JS, Express JS, MonogoDB, Redux, HTML, CSS, Bootstrap, Tailwind, Firebase
